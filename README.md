@@ -73,7 +73,7 @@ Após iniciar a aplicação, a API estará disponível em `http://127.0.0.1:8000
 Contribuições são bem-vindas! Siga as diretrizes de contribuição descritas no arquivo `CONTRIBUTING.md` (a ser criado).
 
 ## Licença
-Este projeto é licenciado sob a [MIT License](LICENSE).
+Este projeto é licenciado sob a [Apache-2.0 license](LICENSE).
 
 ## Contato
 Desenvolvido por **Vinicius**. Para mais informações, entre em contato em [seu-email@example.com].
